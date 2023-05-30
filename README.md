@@ -1,6 +1,6 @@
 # pygame-clock
 
-Minimalist clock implemented in pygame
+Minimalistic clock implemented in pygame
 
 ![clock screenshot](images/clock.png)
 
