@@ -75,8 +75,6 @@ def main():
         # independent physics.
         dt = game_clock.tick(60) / 1000
 
-    pygame.quit()
-
 
 if __name__ == "__main__":
     with pygame_init():
